@@ -23,7 +23,7 @@ Arrow right -> Move snake right<br />
 Escape      -> Go to the main menu<br />
 
 ## **How to play?**<br />
-When you start the game, you'll see two start logos (my "company" logo and the game logo). You can pass them by clicking any key. Then you'll see the main menu. The game has two modes: classic and company. Classic - you play until you hit your part, and you can go through the walls. The company has 5 levels, and to pass every one of them, you need to collect 10 apples. You can't go through the walls so be aware!
+When you start the game, you'll see two start logos (my "company" logo and the game logo). You can skip them by clicking any key. Then you'll see the main menu. The game has two modes: classic and company. Classic - you play until you hit your part, and you can go through the walls. The company has 5 levels, and to pass every one of them, you need to collect 10 apples. You can't go through the walls so be aware!
 
 ## **How to create and build this project in Visual Studio?**<br />
 NOTE: I need to have installed Visual Studio 2022, which supports C++17 standard. Google how to do it.<br />
