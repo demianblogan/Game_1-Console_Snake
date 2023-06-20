@@ -1,0 +1,20 @@
+******************************
+* <- #2                      *
+*                            *
+*         Tutorials          *
+*                            *
+* To move snake, use arrow   *
+* keys. You can stop the     *
+* game by pressing ESC key.  *
+*                            *
+* In the beginning only      *
+* first level will be open.  *
+* To unlock next level,      *
+* complete the previous one. *
+* Classic mode has its score *
+* table and company mode has *
+* its progress. You can      *
+* delete them in options.    *
+*                            *
+* ESC (main menu)         #3 *
+******************************

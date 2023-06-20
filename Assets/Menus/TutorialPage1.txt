@@ -1,0 +1,20 @@
+******************************
+*                      #2 -> *
+*                            *
+*         Tutorials          *
+*                            *
+* To go to a menu item,      *
+* use arrow keys.            *
+*                            *
+* To select a menu item,     *
+* press ENTER. To go to      *
+* the previous menu, press   *
+* ESC or select BACK item.   *
+*                            *
+* To close the game, press   *
+* ESC in the main menu or    *
+* select EXIT item. You also *
+* can press ALT+F4 to quit.  *
+*                            *
+* ESC (main menu)         #1 *
+******************************

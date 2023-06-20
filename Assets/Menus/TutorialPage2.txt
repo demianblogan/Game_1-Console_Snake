@@ -1,0 +1,20 @@
+******************************
+* <- #1                #3 -> *
+*                            *
+*         Tutorials          *
+*                            *
+* The game has 2 game modes: *
+* 1. Classic. Eat as many    *
+*  apples as you can,        *
+*  increasing the snake. You *
+*  can go through the walls. *
+*  The game ends when snake  *
+*  touches its body part.    *
+*                            *
+* 2. Company. Collect 10     *
+*    apples in every level   *
+*    trying not to touch the *
+*    walls or snake's parts. *
+*                            *
+* ESC (main menu)         #2 *
+******************************
