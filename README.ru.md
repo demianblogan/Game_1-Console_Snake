@@ -40,7 +40,7 @@ Escape -> Перейти в главное меню<br />
 4. Чтобы сделать все эти файлы видимыми в вашем проекте, нажтиме на кнопку "Show all files" в Solution Explorer, после чего выберите их всех и нажмите "Include in Project"<br />
 ![image](https://github.com/demianblogan/Game-Console_Snake/assets/105989117/7e145faf-8aa6-4cef-8550-7dd5f16182b3)
 
-5. Давайте изменим страндарт проекта на C++17. Перейдите к настройкам проекта. Выберите "All Configurations" и "All Platforms". В "Configuration Properties" перейдите ко вкладке "General", найдите "C++ Language Standard" и выберите "ISO C++20 Standard (/std:c++17"<br />
+5. Давайте изменим страндарт проекта на C++17. Перейдите к настройкам проекта. Выберите "All Configurations" и "All Platforms". В "Configuration Properties" перейдите ко вкладке "General", найдите "C++ Language Standard" и выберите "ISO C++17 Standard (/std:c++17"<br />
 ![image](https://github.com/demianblogan/Game-Console_Snake/assets/105989117/f468265d-2ad4-4c5a-9b53-4c942198646d)
 
 6. Вот и всё! Нажмите "Apply". Чтобы скомпилировать и запустить игру, нажмите "Ctrl + F5".
