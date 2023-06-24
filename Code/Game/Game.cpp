@@ -1171,7 +1171,7 @@ void Game::UpdateGameSceneClassic(double deltaTime)
 		snake->ExpandTail();
 		playerScore.AddPoints(1);
 
-		Vector2<unsigned> appleNewPosition = field->GetRandomEmptyPoint();
+		Vector2u appleNewPosition = field->GetRandomEmptyPoint();
 		apple->SetPosition(appleNewPosition);
 	}
 }
@@ -1215,7 +1215,7 @@ void Game::UpdateGameSceneCompany(double deltaTime)
 		snake->ExpandTail();
 		playerScore.AddPoints(1);
 
-		Vector2<unsigned> appleNewPosition = field->GetRandomEmptyPoint();
+		Vector2u appleNewPosition = field->GetRandomEmptyPoint();
 		apple->SetPosition(appleNewPosition);
 	}
 }
@@ -1244,10 +1244,10 @@ void Game::AllocateGameObjects()
 
 	field->Set(*walls);
 
-	Vector2<unsigned> snakeInitialPosition{ field->GetColumns() / 2, field->GetRows() / 2 };
+	Vector2u snakeInitialPosition{ field->GetColumns() / 2, field->GetRows() / 2 };
 	snake = std::make_unique<Snake>(snakeInitialPosition, Vector2u{ WINDOW_WIDTH, WINDOW_HEIGHT });
 
-	Vector2<unsigned> appleInitialPosition = field->GetRandomEmptyPoint();
+	Vector2u appleInitialPosition = field->GetRandomEmptyPoint();
 	apple = std::make_unique<Apple>(appleInitialPosition);
 }
 
