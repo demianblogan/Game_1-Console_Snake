@@ -2,7 +2,7 @@
 [![ru](https://img.shields.io/badge/Language-Russian-blue.svg)](https://github.com/demianblogan/Game-Console_Snake/blob/main/README.ru.md)
 [![ua](https://img.shields.io/badge/Language-Ukrainian-green.svg)](https://github.com/demianblogan/Game-Console_Snake/blob/main/README.ua.md)
 
-# Brief description of the game
+# Overview
 This is the second game for my portfolio. It's a classic Snake game with a few extra functions, such as menus, score tables, company with 5 levels, and graphics presets.
 
 ![1](https://github.com/demianblogan/Game-Console_Snake/assets/105989117/6366a978-9c50-4139-8ec0-bc563450f89e)
